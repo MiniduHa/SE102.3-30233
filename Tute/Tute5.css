@@ -1,0 +1,18 @@
+body{
+    background-image: url(painting-mountain-lake-with-mountain-background_188544-9126.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#quotes{
+    width: 400px;
+    height: 100px;
+    color:brown;
+    background-color: white;
+    opacity: 0.5;
+    padding: 40px;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
